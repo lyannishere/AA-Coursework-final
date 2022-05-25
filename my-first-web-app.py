@@ -9,7 +9,7 @@ st.write("""
 This app predicts the **Iris flower** type!
 """)
 
-st.image("https://medium.com/@jebaseelanravi96/machine-learning-iris-classification-33aa18a4a983")
+st.image("https://medium.com/@jebaseelanravi96/machine-learning-iris-classification-33aa18a4a983.png")
 st.sidebar.header('Use the sidebar to predict your input parameters')
 
 def user_input_features():
