@@ -48,5 +48,3 @@ st.write(prediction)
 
 st.subheader('Prediction Probability')
 st.write(prediction_proba)
-
-st.image(image, caption=Painting of beautiful Iris Flower, width=None, use_column_width=None, clamp=False, channels="RGB", output_format="auto")
