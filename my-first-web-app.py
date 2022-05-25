@@ -9,7 +9,7 @@ st.write("""
 This app predicts the **Iris flower** type!
 """)
 
-st.sidebar.header('Use the sidebar to change your parameters')
+st.sidebar.header('Use the sidebar to predict your input parameters')
 
 def user_input_features():
     sepal_length = st.sidebar.slider('Sepal length', 4.3, 7.9, 5.4)
