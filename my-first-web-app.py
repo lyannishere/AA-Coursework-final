@@ -25,7 +25,7 @@ def user_input_features():
 
 df = user_input_features()
 
-st.subheader('User Input parameters')
+st.subheader('Input parameters')
 st.write(df)
 
 iris = pd.read_csv('https://raw.githubusercontent.com/lyannishere/AA-Coursework-final/main/IRIS.csv')
