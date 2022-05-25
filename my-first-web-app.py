@@ -9,6 +9,7 @@ st.write("""
 This app predicts the **Iris flower** type!
 """)
 
+st.image("https://www.pngkey.com/maxpic/u2w7w7u2a9w7e6u2/")
 st.sidebar.header('Use the sidebar to predict your input parameters')
 
 def user_input_features():
