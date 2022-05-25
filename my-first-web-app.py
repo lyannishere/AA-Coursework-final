@@ -49,3 +49,4 @@ st.write(prediction)
 
 st.subheader('Prediction Probability')
 st.write(prediction_proba)
+st.image("https://www.google.com/imgres?imgurl=https%3A%2F%2Fimage.shutterstock.com%2Fimage-vector%2Fhappy-smiling-woman-character-working-260nw-666234379.jpg&imgrefurl=https%3A%2F%2Fwww.shutterstock.com%2Fimage-vector%2Fhappy-smiling-woman-character-working-garden-666234379&tbnid=kI64duMzuZdzXM&vet=12ahUKEwjj_9b2g_v3AhXCyKACHUElD_QQMygFegUIARDYAQ..i&docid=qvlegvr9FXMa9M&w=261&h=280&q=gardener%20image%20cartoon&hl=en&ved=2ahUKEwjj_9b2g_v3AhXCyKACHUElD_QQMygFegUIARDYAQ")
